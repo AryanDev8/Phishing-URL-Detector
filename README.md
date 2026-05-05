@@ -158,7 +158,7 @@ Production-grade phishing detection would combine heuristics with:
 Final-year B.Sc. IT — D.G. Ruparel College, Mumbai
 | InProgrss: CEH V.13 | Targeting Cybersecurity Consulting & GRC roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aryan-kamble-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-kamble-)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanDev8)
 
 ---
